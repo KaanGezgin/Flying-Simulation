@@ -3,6 +3,7 @@ This repository for creating a realistic flying simulation
 There's not much to explain in this project, the name says it all :)
 
 Inputs
+
 -> Mouse x and y axis for rotations
 
 -> Space for acceleration
